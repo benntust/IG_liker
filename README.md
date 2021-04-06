@@ -17,5 +17,5 @@ IG_liker can automatically click "like" on the Instagram posts.
   python IG_liker.py  
   ```
 #### Without PYTHON Interperter：
-  Just execute IG_liker.exe
+  Just execute IG_liker.exe  
   *Please note that chromedriver.exe should be at same directory as IG_liker.py
