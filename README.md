@@ -3,7 +3,7 @@
 IG_liker can automatically click "like" on the Instagram posts.  
 
 ## HOW TO USE IT：
-#### With PYTHON Interperter：
+### With PYTHON Interperter：
   1. Create virtual environment：  
   ```
   conda env --name <envname> python=3.6  
@@ -16,6 +16,7 @@ IG_liker can automatically click "like" on the Instagram posts.
   ```
   python IG_liker.py  
   ```
-#### Without PYTHON Interperter：
+### Without PYTHON Interperter：
   Just execute IG_liker.exe  
-  *Please note that chromedriver.exe should be at same directory as IG_liker.py
+  
+  *Please note that chromedriver.exe should be at same directory as IG_liker.py*
