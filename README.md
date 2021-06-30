@@ -3,7 +3,7 @@
 IG_liker can automatically click "like" on the Instagram posts.  
 Please key in your Instagram account, password, and a hashtag (without #) after executing.    
 The program will open the browser to click "like" on the posts that include the hashtag.  
-***Please note that chromedriver.exe should be at same directory as IG_liker.py**  
+***Please note that chromedriver.exe should be in same directory as IG_liker.py**  
 
 ## HOW TO USE IT：
 ### With PYTHON Interperter：
